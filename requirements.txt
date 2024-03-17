@@ -1,0 +1,11 @@
+python-dotenv
+crewai
+langchain
+langchain-google-genai
+langchain_community.tools
+langchain.tools
+dotenv 
+sklearn 
+Pillow 
+nest_asyncio 
+playwright
