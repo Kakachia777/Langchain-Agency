@@ -19,6 +19,7 @@ DEEPINFRA_API_TOKEN = 'YOUR_API_KEY'
 * Run the Playwright Agents.py in the terminal
 ```shell
 python run Playwright Agents.py
+python run Marketing Agency.py
 ```
 
 **_NOTE:_**   A sample input prompt is given in the folder, and some changes may be needed in the *output Python file*.
