@@ -16,14 +16,10 @@ pip install -r requirements.txt
 GOOGLE_API_KEY = 'YOUR_API_KEY'
 DEEPINFRA_API_TOKEN = 'YOUR_API_KEY'
 ```
-* Run the main.py in the terminal
+* Run the Playwright Agents.py in the terminal
 ```shell
 python run Playwright Agents.py
 ```
-
-* Enter your game instructions in the terminal.
-
-* The output file will be saved under the name sample.py.
 
 **_NOTE:_**   A sample input prompt is given in the folder, and some changes may be needed in the *output Python file*.
 
