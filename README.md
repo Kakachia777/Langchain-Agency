@@ -2,7 +2,7 @@
 
 We have developed a several Agency Bots where we need to provide instructions and it will handle all of the coding. This is accomplished with the assistance of CrewAI, DeepInfra and the Google Gemini-Pro model.
 
-This provides the potential to create complex workflows with a variety of conditions. A Python file contains the output gaming code. Something needs minor adjustments to function properly.
+This provides the potential to create complex workflows with a variety of conditions. Something needs minor adjustments to function properly.
 
 ## Installation
 
