@@ -2,7 +2,7 @@
 
 ![Alt Text](https://site-blog-files.s3.amazonaws.com/public/how-to-automate-processes-with-crewai/how-to-automate-processes-with-crewai.jpg)
 
-We have developed a several Agency Bots where we need to provide instructions and it will handle all of the coding. This is accomplished with the assistance of CrewAI, DeepInfra and the Google Gemini-Pro model.
+This is a several Agency Bots where you need to provide instructions and it will handle all of the coding. This is accomplished with the assistance of CrewAI, DeepInfra and the Google Gemini-Pro model.
 
 This provides the potential to create complex workflows with a variety of conditions. Something needs minor adjustments to function properly.
 
